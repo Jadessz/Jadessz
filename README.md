@@ -20,9 +20,8 @@ Full-Stack Developer · AI Automation Builder
 ---
 
 **GitHub Stats**
-
-![Nero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jadessz&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jadessz&layout=compact&theme=tokyonight&hide_border=true)
+![Nero's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jadessz&show_icons=true&theme=tokyonight&hide_border=true&height=200)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jadessz&layout=compact&theme=tokyonight&hide_border=true&height=200)
 
 ---
 
