@@ -1,33 +1,32 @@
-<h1>Nero</h1>
-<p>Full-Stack Developer · AI Automation Builder</p>
+👋 Hi there, I'm Nero!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/demetre-jibladze-69a198268)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
-![n8n](https://img.shields.io/badge/n8n-black?style=flat-square&logo=n8n)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
-
-![Metrics](github-metrics.svg)
----
-
-## Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [JadeTracker](https://github.com/Jadessz/JadeTracker) | Full-stack task tracking app | `React` `Node.js` `PostgreSQL` |
+Full-Stack Developer · AI Automation Builder
 
 ---
 
-## Current focus
+**When I code, I use**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+---
+
+**Projects**
+
+- 🗂️ [JadeTracker](https://github.com/Jadessz/JadeTracker) — Full-stack task tracking app
+
+---
+
+**Current focus**
 - Building AI-powered applications
 - Workflow automation with n8n
 - Cloud infrastructure
 - Full-stack web development
-
----
-
-<p><i>"Code. Automate. Improve."</i></p>
