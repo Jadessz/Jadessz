@@ -1,6 +1,7 @@
 <h1>Nero</h1>
 <p>Full-Stack Developer · AI Automation Builder</p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/demetre-jibladze-69a198268)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
@@ -9,24 +10,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
 ![n8n](https://img.shields.io/badge/n8n-black?style=flat-square&logo=n8n)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
-
----
-
-```js
-const nero = {
-  code:       ["JavaScript", "TypeScript", "SQL"],
-  frontend:   ["React", "Next.js"],
-  backend:    ["Node.js", "Express"],
-  databases:  ["PostgreSQL", "MySQL"],
-  cloud:      ["Vercel", "Oracle Cloud"],
-  automation: ["n8n", "AI Workflows"],
-};
-```
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jadessz&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadessz&layout=compact&theme=tokyonight&hide_border=true" />
-</p>****
 
 ---
 
