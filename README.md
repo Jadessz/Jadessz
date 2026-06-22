@@ -11,6 +11,7 @@
 ![n8n](https://img.shields.io/badge/n8n-black?style=flat-square&logo=n8n)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
 
+![Metrics](github-metrics.svg)
 ---
 
 ## Projects
