@@ -1,43 +1,41 @@
 ## Hi there 👋
 
-<h1 align="center">Nero</h1>
+<h1>Nero</h1>
+<p>Full-Stack Developer · AI Automation Builder</p>
 
-<p align="center">
-  Full-Stack Developer • AI Automation Builder
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+things+that+work;Full-Stack+Developer;AI+Automation+Builder;Cloud+%7C+SQL+%7C+Web+Development" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)
+![n8n](https://img.shields.io/badge/n8n-black?style=flat-square&logo=n8n)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
 
 ---
-
-## About
 
 ```js
 const nero = {
-  code: ["JavaScript", "TypeScript", "SQL"],
-  frontend: ["React", "Next.js"],
-  backend: ["Node.js", "Express"],
-  databases: ["PostgreSQL", "MySQL"],
-  cloud: ["Vercel", "Oracle Cloud"],
+  code:       ["JavaScript", "TypeScript", "SQL"],
+  frontend:   ["React", "Next.js"],
+  backend:    ["Node.js", "Express"],
+  databases:  ["PostgreSQL", "MySQL"],
+  cloud:      ["Vercel", "Oracle Cloud"],
   automation: ["n8n", "AI Workflows"],
 };
-```
+` ` `
 
 ---
 
-## Stats
+## Projects
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jadessz&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadessz&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+| Project | Description | Stack |
+|---|---|---|
+| [JadeTracker](https://github.com/Jadessz/JadeTracker) | Full-stack task tracking app | `React` `Node.js` `PostgreSQL` |
 
 ---
 
-## Current Focus
-
+## Current focus
 - Building AI-powered applications
 - Workflow automation with n8n
 - Cloud infrastructure
@@ -45,18 +43,5 @@ const nero = {
 
 ---
 
-## Featured Projects
-
-🚀 AI Automation Systems
-
-🌐 Full-Stack Applications
-
-🗄️ Database Architecture
-
-☁️ Cloud Deployments
-
----
-
-<p align="center">
-  <i>"Code. Automate. Improve."</i>
-</p>
+<p><i>"Code. Automate. Improve."</i></p>
+```
