@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1>Nero</h1>
 <p>Full-Stack Developer · AI Automation Builder</p>
 
