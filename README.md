@@ -21,7 +21,7 @@ const nero = {
   cloud:      ["Vercel", "Oracle Cloud"],
   automation: ["n8n", "AI Workflows"],
 };
-` ` `
+```
 
 ---
 
@@ -42,4 +42,3 @@ const nero = {
 ---
 
 <p><i>"Code. Automate. Improve."</i></p>
-```
