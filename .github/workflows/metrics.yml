@@ -32,7 +32,7 @@ jobs:
           plugin_16personalities: yes
           plugin_16personalities_scores: yes
           plugin_16personalities_sections: personality
-          plugin_16personalities_url: https://www.16personalities.com/profiles/1b5d163cac0e0
+          plugin_16personalities_url: https://www.16personalities.com/intp-personality
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
