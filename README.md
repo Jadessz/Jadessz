@@ -4,6 +4,12 @@ Full-Stack Developer · AI Automation Builder
 
 ---
 
+**Socials**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/demetre-jibladze-69a198268)
+
+---
+
 **When I code, I use**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
