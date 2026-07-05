@@ -29,19 +29,11 @@ Full-Stack Developer · AI Automation Builder
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
----
-
-**GitHub Stats**
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jadessz&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadessz&layout=compact&theme=tokyonight&hide_border=true" />
-
 ---
 
 **Projects**
-
 - 🗂️ [JadeTracker](https://github.com/Jadessz/JadeTracker) — Full-stack task tracking app
+- 🎯 [LGENO](https://github.com/Jadessz/LGENO) — Lead-gen app that finds local businesses with no website via the Google Places API, so devs can pitch them web services
 
 ---
 
