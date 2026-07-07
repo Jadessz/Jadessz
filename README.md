@@ -1,16 +1,28 @@
-👋 Hi there, I'm Nero!
+<h1 align="center">👋 Hi there, I'm Nero!</h1>
 
-Full-Stack Developer · AI Automation Builder
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Automation+Builder;Workflow+automation+with+n8n" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jadessz&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+</p>
 
 ---
 
-**Socials**
+### 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/demetre-jibladze-69a198268)
+<p align="left">
+  <a href="https://linkedin.com/in/demetre-jibladze-69a198268" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-**When I code, I use**
+### 🛠️ When I code, I use
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -29,17 +41,37 @@ Full-Stack Developer · AI Automation Builder
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
 ---
 
-**Projects**
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jadessz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Nero's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadessz&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jadessz&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jadessz&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📌 Projects
+
 - 🗂️ [JadeTracker](https://github.com/Jadessz/JadeTracker) — Full-stack task tracking app
 - 🎯 [LGENO](https://github.com/Jadessz/LGENO) — Lead-gen app that finds local businesses with no website via the Google Places API, so devs can pitch them web services
-- 🃏 [JadeBlackjack](https://github.com/Jadessz/JadeBlackjack) — Interactive blackjack strategy trainer and interactive fun game.
+- 🃏 [JadeBlackjack](https://github.com/Jadessz/JadeBlackjack) — Interactive blackjack strategy trainer and fun game
 
 ---
 
-**Current focus**
-- Building AI-powered applications
-- Workflow automation with n8n
-- Cloud infrastructure
-- Full-stack web development
+### 🎯 Current Focus
+
+- 🤖 Building AI-powered applications
+- 🔄 Workflow automation with **n8n**
+- ☁️ Cloud infrastructure
+- 🌐 Full-stack web development
