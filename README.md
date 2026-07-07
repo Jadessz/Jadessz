@@ -34,6 +34,7 @@ Full-Stack Developer · AI Automation Builder
 **Projects**
 - 🗂️ [JadeTracker](https://github.com/Jadessz/JadeTracker) — Full-stack task tracking app
 - 🎯 [LGENO](https://github.com/Jadessz/LGENO) — Lead-gen app that finds local businesses with no website via the Google Places API, so devs can pitch them web services
+- 🃏 [JadeBlackjack](https://github.com/Jadessz/JadeBlackjack) — Interactive blackjack strategy trainer and interactive fun game.
 
 ---
 
