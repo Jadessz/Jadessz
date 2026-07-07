@@ -47,16 +47,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jadessz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Nero's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jadessz&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Jadessz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Nero's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jadessz&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jadessz&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jadessz&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=Jadessz&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
