@@ -46,6 +46,8 @@
 
 ### 📊 GitHub Stats
 
+> These stats reflect **public repositories only**. Most of my current work is on private projects for employers, so commit and contribution numbers here underrepresent my actual activity.
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Jadessz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Nero's GitHub stats" />
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jadessz&layout=compact&theme=tokyonight" alt="Top Languages" />
