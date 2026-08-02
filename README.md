@@ -61,7 +61,7 @@
 
 ### 📌 Side Projects
 
-A few things I tinker with when I'm not heads-down on client work:
+A few things I work on when I'm not heads-down on client work:
 
 - 🗂️ [JadeTracker](https://github.com/Jadessz/JadeTracker) — Full-stack task tracking app
 - 🎯 [LGENO](https://github.com/Jadessz/LGENO) — Lead-gen app that finds local businesses with no website via the Google Places API, so devs can pitch them web services
