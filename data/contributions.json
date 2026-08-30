@@ -1,55 +1,27 @@
 {
   "username": "Jadessz",
-  "generated_at": "2026-08-29T13:11:23Z",
+  "generated_at": "2026-08-30T12:57:20Z",
   "range": {
-    "start": "2025-08-24",
+    "start": "2025-08-31",
+    "end": "2026-08-30"
+  },
+  "total_contributions": 72,
+  "active_days": 33,
+  "current_streak": {
+    "length": 28,
+    "start": "2026-08-02",
     "end": "2026-08-29"
   },
-  "total_contributions": 71,
-  "active_days": 32,
-  "current_streak": {
-    "length": 27,
-    "start": "2026-08-02",
-    "end": "2026-08-28"
-  },
   "longest_streak": {
-    "length": 27,
+    "length": 28,
     "start": "2026-08-02",
-    "end": "2026-08-28"
+    "end": "2026-08-29"
   },
   "best_day": {
     "date": "2026-06-22",
     "count": 26
   },
   "days": [
-    {
-      "date": "2025-08-24",
-      "count": 0
-    },
-    {
-      "date": "2025-08-25",
-      "count": 0
-    },
-    {
-      "date": "2025-08-26",
-      "count": 0
-    },
-    {
-      "date": "2025-08-27",
-      "count": 0
-    },
-    {
-      "date": "2025-08-28",
-      "count": 0
-    },
-    {
-      "date": "2025-08-29",
-      "count": 0
-    },
-    {
-      "date": "2025-08-30",
-      "count": 0
-    },
     {
       "date": "2025-08-31",
       "count": 0
@@ -1504,6 +1476,10 @@
     },
     {
       "date": "2026-08-29",
+      "count": 1
+    },
+    {
+      "date": "2026-08-30",
       "count": 0
     }
   ]
