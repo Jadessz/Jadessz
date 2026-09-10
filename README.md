@@ -87,6 +87,7 @@ Things I tinker with between client work:
 | Project | What it is |
 | --- | --- |
 | [JadeTracker](https://github.com/Jadessz/JadeTracker) | Full-stack task tracker built for fast day-to-day use |
+| [brain_clone](https://github.com/Jadessz/brain_clone) | Claude skill that runs a decision through 8 AI advisors and a chairman verdict |
 | [LGENO](https://github.com/Jadessz/LGENO) | Finds local businesses with no website via Google Places so you can pitch web work |
 | [JadeBlackjack](https://github.com/Jadessz/JadeBlackjack) | Blackjack strategy trainer that doubles as a quick game |
 
