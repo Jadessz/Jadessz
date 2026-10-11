@@ -11,7 +11,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Jadessz&label=Profile%20views&color=58A6FF&style=flat-square" alt="profile views" />
   <a href="https://linkedin.com/in/demetre-jibladze-69a198268">
-    <img src="https://img.shields.io/badge/LinkedIn-Demetre%20Jibladze-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
