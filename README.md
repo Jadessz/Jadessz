@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # Hey, I'm Nero
 
@@ -9,12 +9,14 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Jadessz&label=Profile%20views&color=58A6FF&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Jadessz&label=Profile%20views&color=58A6FF&style=flat-square" alt="Profile views" />
   <a href="https://linkedin.com/in/demetre-jibladze-69a198268">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 Full-stack developer focused on AI-powered apps, automation, and clean product experiences.
+
 Most of my day-to-day work lives in private employer repos — the public graph below is only part of the story.
 
 </div>
@@ -105,6 +107,6 @@ Things I tinker with between client work:
 
 Thanks for stopping by — always happy to connect.
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/demetre-jibladze-69a198268)
+[![Let's connect](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/demetre-jibladze-69a198268)
 
 </div>
