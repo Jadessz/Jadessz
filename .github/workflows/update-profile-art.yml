@@ -1,6 +1,6 @@
 name: Update profile art
 
-# Refreshes the animated contribution heatmap from live public GitHub data.
+# Refreshes the animated contribution heatmap from live GitHub data (includes private contributions).
 
 on:
   schedule:
@@ -28,7 +28,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
-      - name: Scrape public contribution data
+      - name: Scrape contribution data
         env:
           GH_PROFILE_USER: Jadessz
         run: python scripts/fetch_contributions.py

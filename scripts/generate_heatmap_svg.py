@@ -128,7 +128,7 @@ def main() -> None:
 <rect width="{width}" height="{height}" fill="none"/>
 {"".join(labels)}
 {"".join(rects)}
-<text class="total" x="{LEFT}" y="{height - 8}">{total:,} public contributions in the last year</text>
+<text class="total" x="{LEFT}" y="{height - 8}">{total:,} contributions in the last year</text>
 </svg>
 """
 

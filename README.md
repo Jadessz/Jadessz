@@ -17,7 +17,7 @@
 
 Full-stack developer focused on AI-powered apps, automation, and clean product experiences.
 
-Most of my day-to-day work lives in private employer repos — the public graph below is only part of the story.
+Most of my day-to-day work lives in private employer repos.
 
 </div>
 
@@ -25,7 +25,7 @@ Most of my day-to-day work lives in private employer repos — the public graph 
 
 ### `nero@github ~ $ ./contributions.sh`
 
-> Public activity only. Private employer work isn't reflected here.
+> Includes private contributions (repo details stay hidden).
 
 <p align="center">
   <img src="./contrib-heatmap.svg" width="860" alt="Nero's GitHub contribution graph — refreshes daily" />
