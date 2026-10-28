@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Scrape public contribution counts from GitHub (no auth required)."""
+"""Scrape contribution counts (public + private, per profile setting) from GitHub (no auth required)."""
 
 from __future__ import annotations
 

@@ -1,6 +1,6 @@
 name: Update profile art
 
-# Refreshes the animated contribution heatmap from live public GitHub data.
+# Refreshes the animated contribution heatmap from live GitHub data (includes private contributions).
 
 on:
   schedule:
@@ -28,7 +28,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
-      - name: Scrape public contribution data
+      - name: Scrape contribution data
         env:
           GH_PROFILE_USER: Jadessz
         run: python scripts/fetch_contributions.py
@@ -36,8 +36,14 @@ jobs:
       - name: Render animated contribution graph
         run: python scripts/generate_heatmap_svg.py Jadessz contrib-heatmap.svg
 
+      - name: Render stats, languages and streak cards
+        env:
+          # Classic PAT with `repo` + `read:user` so private repos are counted
+          GH_STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+        run: python scripts/generate_stats_svgs.py
+
       - name: Commit updated art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+          file_pattern: "data/contributions.json contrib-heatmap.svg stats-card.svg top-langs-card.svg streak-card.svg"
