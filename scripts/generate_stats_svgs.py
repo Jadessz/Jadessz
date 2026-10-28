@@ -53,13 +53,14 @@ def fetch_stats() -> dict:
         }"""
     )["viewer"]
 
-    commits = reviews = contributions = 0
+    commits = reviews = contributions = private = 0
     for year in base["contributionsCollection"]["contributionYears"]:
         c = gql(
             """query($from: DateTime!, $to: DateTime!) {
               viewer { contributionsCollection(from: $from, to: $to) {
                 totalCommitContributions
                 totalPullRequestReviewContributions
+                restrictedContributionsCount
                 contributionCalendar { totalContributions }
               } }
             }""",
@@ -68,6 +69,8 @@ def fetch_stats() -> dict:
         commits += c["totalCommitContributions"]
         reviews += c["totalPullRequestReviewContributions"]
         contributions += c["contributionCalendar"]["totalContributions"]
+        # Contributions in private repos the token can't open (e.g. employer repos)
+        private += c["restrictedContributionsCount"]
 
     stars = 0
     languages: dict[str, dict] = {}
@@ -104,6 +107,7 @@ def fetch_stats() -> dict:
         "commits": commits,
         "reviews": reviews,
         "contributions": contributions,
+        "private": private,
         "prs": base["pullRequests"]["totalCount"],
         "issues": base["issues"]["totalCount"],
         "repos": base["repositoriesContributedTo"]["totalCount"],
@@ -133,6 +137,7 @@ def card(width: int, height: int, title: str, body: str) -> str:
 def stats_card(s: dict) -> str:
     rows = [
         ("Total Commits", s["commits"]),
+        ("Private Contributions", s["private"]),
         ("Pull Requests", s["prs"]),
         ("Code Reviews", s["reviews"]),
         ("Issues", s["issues"]),
@@ -149,16 +154,16 @@ def stats_card(s: dict) -> str:
             f'<text class="l" x="45" y="{y}">{label}:</text>'
             f'<text class="v" x="245" y="{y}">{value:,}</text></g>'
         )
-    cx, cy, r = 390, 110, 48
+    cx, cy, r = 390, 122, 48
     body.append(
         f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="{TITLE}" stroke-opacity=".2" stroke-width="6"/>'
         f'<circle class="f" cx="{cx}" cy="{cy}" r="{r}" fill="none" stroke="{TITLE}" stroke-width="6"/>'
         f'<text x="{cx}" y="{cy + 2}" text-anchor="middle" fill="{TEXT}" font-size="20" font-weight="800">'
         f'{s["contributions"]:,}</text>'
         f'<text class="m" x="{cx}" y="{cy + 20}" text-anchor="middle">contributions</text>'
-        f'<text class="m" x="25" y="{64 + 6 * 25 + 2}">incl. private repos · all time</text>'
+        f'<text class="m" x="25" y="{64 + len(rows) * 25 + 2}">incl. private repos · all time</text>'
     )
-    return card(495, 230, f"{s['login']}'s GitHub Stats", "".join(body))
+    return card(495, 255,f"{s['login']}'s GitHub Stats", "".join(body))
 
 
 def langs_card(languages: dict, limit: int = 8) -> str:
