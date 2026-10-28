@@ -87,6 +87,7 @@ Things I tinker with between client work:
 
 | Project | What it is |
 | --- | --- |
+| [ClaudeCX](https://github.com/Jadessz/ClaudeCX) | Codex skill that hands coding to Claude Code through a guarded bridge, with a live dashboard and Codex review |
 | [JadeTracker](https://github.com/Jadessz/JadeTracker) | Full-stack task tracker built for fast day-to-day use |
 | [brain_council](https://github.com/Jadessz/brain_clone) | Claude skill that runs a decision through 8 AI advisors and a chairman verdict |
 | [LGENO](https://github.com/Jadessz/LGENO) | Finds local businesses with no website via Google Places so you can pitch web work |
