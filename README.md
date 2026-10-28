@@ -68,15 +68,15 @@ Most of my day-to-day work lives in private employer repos.
 
 ### `nero@github ~ $ ./stats.sh`
 
-> These cards pull from **public repositories only**, so they underrepresent private client/employer work.
+> Includes private repos (only totals and languages are shown, never repo names).
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Jadessz&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Nero's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Jadessz&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="./stats-card.svg" alt="Nero's GitHub stats" />
+  <img height="165" src="./top-langs-card.svg" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jadessz&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="./streak-card.svg" alt="GitHub streak" />
 </p>
 
 ---
